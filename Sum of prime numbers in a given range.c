@@ -23,23 +23,4 @@ x++;
 i=2;    
 }
 printf("Total of prime numbers= %d ",sum);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
